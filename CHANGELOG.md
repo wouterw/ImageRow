@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to ImageRow will be documented in this file.
 
+### [3.3.0](https://github.com/EurekaCommunity/ImageRow/releases/tag/3.3.0)
+<!-- Released on 2019-04-01. -->
+
+* Xcode 10.2 and Swift 5 compatibility
+* iOS deployment target increased to iOS9.3
+
+
 ### [3.2.0](https://github.com/EurekaCommunity/ImageRow/releases/tag/3.2.0)
 <!-- Released on 2018-11-20. -->
 
